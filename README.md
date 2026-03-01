@@ -1,2 +1,3 @@
-# informacie-paliva
-Aktuálne informácie o cenách a kvalite palív na Slovensku.
+# Informácie o palivách
+Aktuálny prehľad a užitočné tipy o pohonných hmotách nájdete na našej oficiálnej stránke:
+[Palivá a pohonné hmoty - fuelky.info](https://www.fuelky.info)
